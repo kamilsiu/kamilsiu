@@ -24,25 +24,21 @@
 
 ## 📌 Projects
 
-### 🔹 **Foundry ERC20 Token**
-A custom ERC20 token built with **Foundry** for testing tokenomics and blockchain fundamentals.  
-*Tech:* Solidity, Foundry, Ethereum  
-[🔗 View Repository]()  
-
-
 ### 🔹 **Complaint Management System**
 Python-based system that reads emails, extracts complaint data, and stores it in JSON.  
 *Tech:* Python, JSON, Email Automation  
 [🔗 View Repository](https://github.com/kamilsiu/37codeBlooded)  
+
+### 🔹 [KickFund]
+A decentralized crowdfunding platform where contributors fund projects using cryptocurrency.  
+*Tech:* Solidity, Truffle, JavaScript, Ethereum, IPFS , Semantic-Ui-react, Mocha,Node.js,Express.js
+[🔗 View Repository](https://github.com/kamilsiu/kickfund)
 
 ### 🔹 **Blockchain-Based YouTube (Concept)**
 A decentralized video-sharing platform concept ensuring censorship resistance and fair creator payouts.  
 *Tech:* Solidity, IPFS, Ethereum, JS (Frontend)  
 *(In progress)*
 
-### 🔹 [KickFund]([https://github.com/kamilsiu/kickfund](https://github.com/kamilsiu/kickfund))
-A decentralized crowdfunding platform where contributors fund projects using cryptocurrency.  
-*Tech:* Solidity, Truffle, JavaScript, Ethereum, IPFS  
 ---
 
 ## 🎯 Career Goals
