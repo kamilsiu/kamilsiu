@@ -44,17 +44,15 @@ A decentralized video-sharing platform concept ensuring censorship resistance an
 
 ## 🎯 Career Goals
 
-- 🥇 Become a **top-tier blockchain developer** by 2025  
 - 📜 Specialize as a **Smart Contract Auditor**  
-- 🌍 Work in **Dubai** or **Japan** on innovative blockchain solutions  
-- 💼 Secure internships & freelance gigs this year  
+- 💼 Secure an internship
 
 ---
 
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-KamilNissar-black?style=for-the-badge&logo=github)](https://github.com/kamilsiu)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KamilNissar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KamilNissar-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/kamil-nissar-348145252/))  
 
 ---
 
