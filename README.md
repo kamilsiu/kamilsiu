@@ -28,6 +28,7 @@
 A custom ERC20 token built with **Foundry** for testing tokenomics and blockchain fundamentals.  
 *Tech:* Solidity, Foundry, Ethereum  
 [🔗 View Repository](#)  
+https://github.com/kamilsiu/37codeBlooded
 
 ### 🔹 **Complaint Management System**
 Python-based system that reads emails, extracts complaint data, and stores it in JSON.  
@@ -53,7 +54,7 @@ A decentralized video-sharing platform concept ensuring censorship resistance an
 ## 📫 Connect With Me
 
 [![GitHub]([https://img.shields.io/badge/GitHub-KamilNissar-black?style=for-the-badge&logo=github)](https://github.com/yourusername](https://github.com/kamilsiu/37codeBlooded))  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KamilNissar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-KamilNissar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername](https://www.linkedin.com/in/kamil-nissar-348145252/))  
 
 ---
 
