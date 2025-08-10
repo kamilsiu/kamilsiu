@@ -53,7 +53,7 @@ A decentralized video-sharing platform concept ensuring censorship resistance an
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-KamilNissar-black?style=for-the-badge&logo=github)](https://github.com/yourusername)  
+[![GitHub](https://img.shields.io/badge/GitHub-KamilNissar-black?style=for-the-badge&logo=github)](https://github.com/kamilsiu)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KamilNissar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)  
 
 ---
