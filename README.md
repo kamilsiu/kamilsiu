@@ -1,7 +1,6 @@
 # Hi there, I'm Kamil 👋
 
 🚀 **Blockchain Developer | Smart Contract Auditor | Open-Source Enthusiast**  
-🎓 B.Tech CSE (Graduating 2026) | New Horizon College of Engineering  
 🌏 Passionate about **blockchain**, **dApps**, and **cutting-edge tech**  
 
 ---
@@ -9,10 +8,10 @@
 ## 🛠 Tech Stack
 
 **Languages:**  
-`C` | `C++` | `Python` | `Java` | `JavaScript` | `Solidity` | `HTML` | `CSS`
+`C` | `C++` | `Python` | `Java` | `JavaScript` | `Solidity` | `HTML` | `CSS`|`GO`
 
 **Tools & Frameworks:**  
-`Truffle` | `Foundry` | `Git` | `GitHub` | `VS Code`
+`Truffle` | `Foundry` | `Git` |
 
 **Domains:**  
 - Blockchain Development (Ethereum, Smart Contracts)  
@@ -53,7 +52,7 @@ A decentralized video-sharing platform concept ensuring censorship resistance an
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-KamilNissar-black?style=for-the-badge&logo=github)](https://github.com/yourusername)  
+[![GitHub]([https://img.shields.io/badge/GitHub-KamilNissar-black?style=for-the-badge&logo=github)](https://github.com/yourusername](https://github.com/kamilsiu/37codeBlooded))  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KamilNissar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)  
 
 ---
