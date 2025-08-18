@@ -8,7 +8,7 @@
 ## 🛠 Tech Stack
 
 **Languages:**  
-`C` | `C++` | `Python` | `Java` | `JavaScript` | `Solidity` | `HTML` | `CSS`|`GO`
+`C` | `C++` | `Python` | `Java` | `JavaScript` | `Solidity` | `HTML` | `CSS`| `Go`
 
 **Tools & Frameworks:**  
 `Truffle` | `Foundry` | `Git` |
@@ -16,8 +16,7 @@
 **Domains:**  
 - Blockchain Development (Ethereum, Smart Contracts)  
 - dApp Frontend & Integration  
-- Data Structures & Algorithms (LeetCode)  
-- Embedded Systems (ARM Cortex-M3)  
+- Data Structures & Algorithms (LeetCode)   
 - Data Analysis Basics
 
 ---
