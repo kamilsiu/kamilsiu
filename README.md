@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=400&lines=Hi%2C+I'm+Kamil!&speed=100" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=400&lines=Hey%2C+I'm+Kamil!&speed=100" alt="Typing SVG" />
 </p>
-
-# 👋 Hey, I'm Kamil!
 
 🚀 **Blockchain Developer | Aspiring Smart Contract Auditor | Web3 Innovator**  
 🌍 Crafting **secure, decentralized solutions** to shape the future of **blockchain** and **dApps**
