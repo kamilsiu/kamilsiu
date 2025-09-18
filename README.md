@@ -1,6 +1,6 @@
----
+<br><br><br> 
 
-<p align="center" style="margin: 80px 0;">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=72&pause=1000&color=41E0E8&center=true&vCenter=true&width=4000&repeat=true&lines=Hey%2C+I'm+Kamil!+%7C+Blockchain+Developer+%7C+Aspiring+Auditor+%7C+Security+Researcher&speed=80" alt="Typing SVG" />
 </p>
 
