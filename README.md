@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&pause=1000&color=41E0E8&center=true&vCenter=true&width=800&height=80&repeat=true&lines=Hey%2C+I'm+Kamil!;Blockchain+Developer;Aspiring+Auditor;Security+Researcher&speed=80" alt="Typing SVG" />
 </p>
 
+<pre>
+    💼 Blockchain Developer • Aspiring Auditor • Security Researcher
+    💻 Solidity • Python • JavaScript • C 
+    📖 Learning & Exploring Web3
+</pre>
+
 ---
 
 ## 🛠️ My Tech Stack
