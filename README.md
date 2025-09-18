@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&pause=1000&color=41E0E8&center=true&vCenter=true&width=800&height=80&repeat=true&lines=Hey%2C+I'm+Kamil!;Blockchain+Developer;Aspiring+Auditor;Security+Researcher&speed=80" alt="Typing SVG" />
 </p>
-<!--
-**kamilsiu/kamilsiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ---
 
