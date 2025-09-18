@@ -1,11 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=400&lines=Hi%2C+I'm+Kamil!&speed=100" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=66B2FF&center=true&vCenter=true&width=400&lines=Hi%2C+I'm+Kamil!;Blockchain+Developer+%7C+Aspiring+Auditor+%7C+Security+Researcher&speed=100" alt="Typing SVG" />
 </p>
+
+🚀 **Blockchain Developer | Aspiring Smart Contract Auditor | Security Researcher**  
+🌍 Crafting **secure, decentralized solutions** to shape the future of **blockchain** and **dApps**
+
 
 🚀 **Blockchain Developer | Aspiring Smart Contract Auditor | Web3 Innovator**  
 🌍 Crafting **secure, decentralized solutions** to shape the future of **blockchain** and **dApps**
 
-I'm a passionate coder dedicated to building trustless systems and securing Web3 ecosystems. With expertise in **Solidity**, **Foundry**, and **dApp development**, I’m diving deeper into **smart contract auditing** to ensure bulletproof protocols. Always coding, learning, and contributing to open-source—let's build the decentralized future together!
 
 ---
 
