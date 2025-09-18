@@ -55,7 +55,7 @@ A censorship-resistant video-sharing platform concept powered by blockchain.
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/kamilsiu)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kamil-nissar-348145252/)  
-📧 Email: [your-email@example.com]  
+📧 Email: [kamilnissarzarga29@gmail.com]  
 
 ---
 
