@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=400&lines=Hey%2C+I'm+Kamil!&speed=100" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=400&lines=Hi%2C+I'm+Kamil!&speed=100" alt="Typing SVG" />
 </p>
 
 🚀 **Blockchain Developer | Aspiring Smart Contract Auditor | Web3 Innovator**  
 🌍 Crafting **secure, decentralized solutions** to shape the future of **blockchain** and **dApps**
 
-I'm a passionate coder dedicated to building trustless systems and securing Web3 ecosystems. With a strong foundation in **Solidity**, **Foundry**, and **dApp development**, I’m diving deeper into **smart contract auditing** to ensure robust, hack-proof protocols. Always learning, coding, and contributing to open-source—let's create the decentralized future together!
+I'm a passionate coder dedicated to building trustless systems and securing Web3 ecosystems. With expertise in **Solidity**, **Foundry**, and **dApp development**, I’m diving deeper into **smart contract auditing** to ensure bulletproof protocols. Always coding, learning, and contributing to open-source—let's build the decentralized future together!
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
@@ -55,19 +55,23 @@ A blockchain-based video-sharing concept ensuring creator control and fair monet
 ## 🎯 Career Goals
 
 - 🔒 Master **Smart Contract Auditing** to secure Web3 protocols against vulnerabilities.  
-- 💼 Secure a **blockchain internship** to build real-world dApps and contribute to DeFi or NFT projects.  
-- 🌍 Lead open-source initiatives to drive blockchain adoption globally.  
+- 💼 Land a **blockchain internship** to build real-world dApps and contribute to DeFi or NFT projects.  
+- 🌍 Lead open-source initiatives to drive blockchain adoption globally.
 
 ---
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/kamilsiu)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kamil-nissar-348145252/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail)](mailto:kamilnissarzarga29@gmail.com)  
+<p align="center">
+  <a href="https://github.com/kamilsiu"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/kamil-nissar-348145252/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
+</p>
 
 ---
 
 > 💻 **"Build. Audit. Secure. Innovate."**
 
-![Profile Views](https://komarev.com/ghpvc/?username=kamilsiu&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kamilsiu&color=blue" alt="Profile Views" />
+</p>
