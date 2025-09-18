@@ -4,7 +4,7 @@
 
 <pre>
     💼 Blockchain Developer • Aspiring Auditor • Security Researcher
-    💻 Solidity • Python • JavaScript • C 
+    💻 Solidity • JavaScript • C • C++ 
     📖 Learning & Exploring Web3
 </pre>
 
