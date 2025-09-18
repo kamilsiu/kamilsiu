@@ -5,9 +5,9 @@
 <div align="center">
 <pre>
     💼 Blockchain Developer • Aspiring Auditor • Security Researcher
-    💻 Solidity • Python • JavaScript • C++
+    💻 Solidity • JavaScript • C • C++ 
     📖 Learning & Exploring Web3
-    🎮 Music • Games • Anime • Code • Repeat
+
 </pre>
 </div>
 
