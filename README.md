@@ -4,9 +4,9 @@
 
 <div align="center">
 <pre>
-    💼 Blockchain Developer • Aspiring Auditor • Security Researcher
-    💻 Solidity • JavaScript • C • C++ 
-    📖 Learning & Exploring Web3
+    💼 Blockchain Dev • Aspiring Auditor • Security Researcher
+    💻 Solidity • JavaScript • C • C++ • Java  
+    📖 Learning, Exploring & Evolving the world of Web3 
 
 </pre>
 </div>
