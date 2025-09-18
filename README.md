@@ -6,7 +6,7 @@
 <pre>
     💼 Blockchain Dev • Auditor • Security  Researcher
     💻 Solidity • JavaScript • C • C++ • Java • Python
-    📖 Learning ,Exploring ,Evolving the world of Web3 
+     📖 Learning ,Exploring ,Evolving the world of Web3 
 
 </pre>
 </div>
