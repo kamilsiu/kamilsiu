@@ -19,8 +19,7 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
 
 ### Tools & Frameworks
-![Foundry](https://img.shields.io/badge/-Foundry-000000?style=flat) ![Truffle](https://img.shields.io/badge/-Truffle-5C2D91?style=flat) ![Hardhat](https://img.shields.io/badge/-Hardhat-F7B93E?style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat) ![Mocha](https://img.shields.io/badge/-Mocha-8D5524?style=flat&logo=mocha)
+![Foundry](https://img.shields.io/badge/-Foundry-000000?style=flat) ![Truffle](https://img.shields.io/badge/-Truffle-5C2D91?style=flat) ![Hardhat](https://img.shields.io/badge/-Hardhat-F7B93E?style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat) ![Mocha](https://img.shields.io/badge/-Mocha-8D5524?style=flat&logo=mocha)
 
 ### Domains
 - 🧑‍💻 **Blockchain Development** (Ethereum, Polygon, Smart Contracts)  
