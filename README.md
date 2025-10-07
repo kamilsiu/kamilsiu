@@ -26,7 +26,7 @@
 - 🌐 **dApp Full-Stack Integration** (Frontend + Backend)  
 - 🔍 **Smart Contract Auditing** (Security & Optimization)  
 - 📊 **Data Structures & Algorithms** (LeetCode Enthusiast)  
-- 📈 **Data Analysis** (Exploratory & Automation)
+
 
 ---
 
