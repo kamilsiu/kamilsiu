@@ -1,121 +1,79 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&pause=1000&color=41E0E8&center=true&vCenter=true&width=900&height=80&repeat=true&lines=Hey%2C+I'm+Kamil;Blockchain+Developer;Aspiring+Smart+Contract+Auditor;Web3+Security+Researcher" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&pause=1000&color=41E0E8&center=true&vCenter=true&width=800&height=80&repeat=true&lines=Hey%2C+I'm+Kamil!;Blockchain+Developer;Aspiring+Auditor;Security+Researcher&speed=80" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <b>Blockchain Developer • Smart Contract Auditor • Security Researcher</b><br/>
-  Solidity · JavaScript · C/C++ · Java · Python<br/>
-  <i>Turning assumptions into exploits, and exploits into fixes.</i>
-</p>
+<div align="center">
+<pre>
+    💼 Blockchain Dev • Auditor • Security  Researcher
+    💻 Solidity • JavaScript • C • C++ • Java • Python
+     📖 Learning, Exploring, Evolving the world of Web3 
+
+</pre>
+</div>
 
 ---
 
-## 🧠 About Me
-
-I’m a **Computer Science student** focused on **Ethereum smart contracts and Web3 security**.  
-I enjoy breaking protocols before attackers do — writing, testing, and auditing contracts with a security-first mindset.
-
-- 🔍 Interested in **DeFi, protocol design, and attack surfaces**
-- 🛠️ Strong believer in **secure-by-design** smart contracts
-- 📚 Constantly learning through audits, contests, and real codebases
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
 ### Languages
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)  ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
 
 ### Tools & Frameworks
-![Foundry](https://img.shields.io/badge/-Foundry-000000?style=flat)
-![Truffle](https://img.shields.io/badge/-Truffle-5C2D91?style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat)
-![Mocha](https://img.shields.io/badge/-Mocha-8D5524?style=flat&logo=mocha)
+![Foundry](https://img.shields.io/badge/-Foundry-000000?style=flat)  ![Truffle](https://img.shields.io/badge/-Truffle-5C2D91?style=flat)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat)  ![Mocha](https://img.shields.io/badge/-Mocha-8D5524?style=flat&logo=mocha)
+
+### Domains
+- 🧑‍💻 **Blockchain Development** (Ethereum, Polygon, Smart Contracts)  
+- 🌐 **dApp Full-Stack Integration** (Frontend + Backend)  
+- 🔍 **Smart Contract Auditing** (Security & Optimization)  
+- 📊 **Data Structures & Algorithms** (LeetCode Enthusiast)  
+
 
 ---
 
-## 🔐 Focus Areas
+## 🌟 Featured Projects
 
-- **Smart Contract Development** (Ethereum, Polygon)
-- **Security Research & Auditing**
-- **dApp Full-Stack Integration**
-- **Gas Optimization & Best Practices**
-- **DSA & Problem Solving** (LeetCode)
-
----
-
-## 🚀 Featured Projects
-
-### 🔗 KickFund  
+### 🔗 [KickFund](https://github.com/kamilsiu/kickfund)  
 **Decentralized Crowdfunding Platform**  
-A trust-minimized crowdfunding protocol built on Ethereum.
+A Web3 platform enabling secure, transparent project funding via cryptocurrency.  
+**Tech**: Solidity, Truffle, JavaScript, Ethereum, IPFS, Semantic-UI-React, Mocha, Node.js, Express.js  
+**Impact**: Deployed audited smart contracts; built responsive UI for seamless user interaction.  
+![GitHub stars](https://img.shields.io/github/stars/kamilsiu/kickfund?style=social)
 
-**Highlights**
-- Designed and deployed Solidity contracts
-- Integrated IPFS for decentralized storage
-- Implemented contract testing with Mocha
-
-**Tech**: Solidity, Truffle, JavaScript, Ethereum, IPFS, Node.js  
-⭐ ![GitHub stars](https://img.shields.io/github/stars/kamilsiu/kickfund?style=social)
-
----
-
-### 🔗 Complaint Management System  
+### 🔗 [Complaint Management System](https://github.com/kamilsiu/37codeBlooded)  
 **Automated Data Extraction Tool**  
-Python system that parses incoming emails and structures complaint data.
-
-**Highlights**
-- Automated extraction → JSON pipelines
-- Reduced manual processing by ~70%
-
+A Python-based system that parses emails to extract and store complaint data in JSON.  
 **Tech**: Python, JSON, Email Automation  
-⭐ ![GitHub stars](https://img.shields.io/github/stars/kamilsiu/37codeBlooded?style=social)
+**Impact**: Reduced manual processing time by 70% with efficient data pipelines.  
+![GitHub stars](https://img.shields.io/github/stars/kamilsiu/37codeBlooded?style=social)
+
+### 🔗 Decentralized YouTube (In Progress)  
+**Censorship-Resistant Video Platform**  
+A blockchain-based video-sharing concept ensuring creator control and fair monetization.  
+**Tech**: Solidity, IPFS, Ethereum, JavaScript  
+**Impact**: Prototyping decentralized storage and payment systems for Web3 content creation.
 
 ---
 
-### 🔗 Decentralized YouTube *(WIP)*  
-**Censorship-Resistant Video Platform**
+## 🎯 Career Goals
 
-- Exploring IPFS-based storage
-- Smart contract-driven monetization models
-- Focus on creator ownership and protocol incentives
-
-**Tech**: Solidity, IPFS, Ethereum, JavaScript
-
----
-
-## 🎯 Current Goals
-
-- 🧪 Deep dive into **smart contract auditing & exploit research**
-- 🏆 Participate consistently in **audit contests**
-- 💼 Secure a **blockchain / security internship**
-- 🌍 Contribute to **open-source security tooling**
+- 🔒 Master **Smart Contract Auditing** to secure Web3 protocols against vulnerabilities.  
+- 💼 Land a **blockchain internship** to build real-world dApps and contribute to DeFi or NFT projects.  
+- 🌍 Lead open-source initiatives to drive blockchain adoption globally.
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/kamilsiu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/kamil-nissar-348145252/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+  <a href="https://github.com/kamilsiu"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/kamil-nissar-348145252/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
 </p>
 
 ---
 
-> **“Assume nothing. Verify everything.”**
+> 💻 **"Build. Audit. Secure. Innovate."**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kamilsiu&color=0aa2ff" />
+  <img src="https://komarev.com/ghpvc/?username=kamilsiu&color=blue" alt="Profile Views" />
 </p>
