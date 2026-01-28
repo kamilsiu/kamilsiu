@@ -1,44 +1,39 @@
-
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&pause=1100&color=00FFF0&center=true&vCenter=true&width=900&height=80&lines=Hey%2C+I'm+Kamil;Smart+Contract+Security+Researcher;Blockchain+Developer;Future+Auditor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=42&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&height=80&lines=Hey%2C+I'm+Kamil;Blockchain+Developer;Smart+Contract+Security+Researcher;Auditor" />
 </p>
 
 <p align="center">
-  <b><i>Trust nothing. Verify everything.</i></b>
+  <sub><b>Build securely. Break carefully. Fix properly.</b></sub>
 </p>
 
 <p align="center">
-  <code>Solidity</code> · <code>Ethereum</code> · <code>Security</code> · <code>Audits</code>
+  <code>Solidity</code> · <code>JavaScript</code> · <code>C / C++</code> · <code>Java</code> · <code>Python</code>
 </p>
 
 ---
 
 <div align="center">
 
-🧨 breaking protocols before attackers do
-🧠 thinking in invariants, edge cases, and failure modes
-🔒 building systems that survive hostile environments
+⚔️ Breaking smart contracts before attackers do
+🧪 Turning assumptions into exploits
+🔐 Designing systems that fail safely
 
 </div>
 
 ---
 
-## whoami
+## 🧠 whoami
 
-Computer Science student deep into **Ethereum smart contracts and protocol security**.
-I approach code adversarially — assume compromise, model attacks, eliminate trust.
+Computer Science student focused on **Ethereum smart contracts and protocol security**.
+I read code like an attacker, reason like an auditor, and build systems assuming they *will* be attacked.
 
-I care about:
-
-* exploit paths, not happy paths
-* invariants over features
-* security over speed
+* 🕵️ Smart contract audits & exploit research
+* 🧩 DeFi mechanics, invariants, edge cases
+* 🧠 Security-first engineering
 
 ---
 
-## toolkit
+## ⚙️ arsenal
 
 ### languages
 
@@ -52,78 +47,78 @@ I care about:
 
 ### tools
 
-![Foundry](https://img.shields.io/badge/Foundry-0d1117?style=flat)
-![Truffle](https://img.shields.io/badge/Truffle-0d1117?style=flat)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat\&logo=git)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat\&logo=node.js)
-![Mocha](https://img.shields.io/badge/Mocha-0d1117?style=flat\&logo=mocha)
+![Foundry](https://img.shields.io/badge/Foundry-black?style=flat)
+![Truffle](https://img.shields.io/badge/Truffle-5C2D91?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=flat)
+![Mocha](https://img.shields.io/badge/Mocha-8D5524?style=flat\&logo=mocha)
 
 ---
 
-## projects
+## 🔥 selected work
 
-### ⚡ KickFund
+### ⚡ KickFund — Decentralized Crowdfunding Protocol
 
-**Decentralized Crowdfunding Protocol**
+* Ethereum smart contracts for trust-minimized funding
+* IPFS for decentralized metadata
+* Full test suite for contract behavior
 
-* trust-minimized funding logic
-* IPFS-backed metadata
-* tested contract behavior, not assumptions
-
-Solidity · Ethereum · IPFS
+Solidity · Ethereum · IPFS · JavaScript
 ⭐ ![GitHub stars](https://img.shields.io/github/stars/kamilsiu/kickfund?style=social)
 
 ---
 
-### 🧬 Complaint Management System
+### 🧬 Complaint Management System — Automated Data Extraction
 
-**Automated Data Extraction Engine**
+* Email → structured JSON pipeline
+* Reduced manual processing by ~70%
 
-* email → structured JSON pipeline
-* ~70% manual work eliminated
-
-Python · Automation
+Python · Automation · Data Processing
 ⭐ ![GitHub stars](https://img.shields.io/github/stars/kamilsiu/37codeBlooded?style=social)
 
 ---
 
 ### 🌐 Decentralized YouTube *(WIP)*
 
-* censorship-resistant storage
-* contract-driven monetization
-* creator-first ownership model
+* IPFS-based storage
+* Smart contract monetization logic
+* Creator-first ownership model
 
 Solidity · IPFS · Ethereum
 
 ---
 
-## current focus
+## 🎯 Current focus
 
-* smart contract audits
-* exploit development & PoCs
-* invariant testing & threat modeling
-* preparing for high-signal audit contests
+* 🛡️ Smart contract auditing & exploit development
+* 🧪 Audit contests & invariant testing
+* ⛓️ Protocol design & gas optimization
+* 🚀 Preparing for Web3 security roles
 
 ---
 
-## contact
+## ☎️ Connect
 
 <p align="center">
   <a href="https://github.com/kamilsiu">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/kamil-nissar-348145252/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>“Security is not a feature. It’s a mindset.”</b>
+  <b>“Assume compromise. Design accordingly.”</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kamilsiu&color=00fff0&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=kamilsiu&color=00e5ff&style=flat">
 </p>
 
+---
+
+If you want it **even colder** (black-hat minimal, no emojis, no fluff), say the word and I’ll nuke it down to pure menace.
