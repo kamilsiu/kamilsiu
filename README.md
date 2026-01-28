@@ -12,7 +12,7 @@
 
 ---
 
-<div align="center">
+
 ```
 $ whoami
 kamil
@@ -33,7 +33,7 @@ turning assumptions into exploits
 designing systems that fail safely
 ```
 
-</div>
+
 
 ---
 
