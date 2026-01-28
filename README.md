@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=42&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&height=80&lines=Hey%2C+I'm+Kamil;Blockchain+Developer;Smart+Contract+Security+Researcher;Auditor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=42&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&height=80&lines=Hey%2C+I'm+Kamil+Nissar;Blockchain+Developer;Smart+Contract+Security+Researcher;Auditor" />
 </p>
 
 <p align="center">
