@@ -1,124 +1,129 @@
+
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=42&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&height=80&lines=Hey%2C+I'm+Kamil;Blockchain+Developer;Smart+Contract+Security+Researcher;Auditor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&pause=1100&color=00FFF0&center=true&vCenter=true&width=900&height=80&lines=Hey%2C+I'm+Kamil;Smart+Contract+Security+Researcher;Blockchain+Developer;Future+Auditor" />
 </p>
 
 <p align="center">
-  <sub><b>Build securely. Break carefully. Fix properly.</b></sub>
+  <b><i>Trust nothing. Verify everything.</i></b>
 </p>
 
 <p align="center">
-  <code>Solidity</code> · <code>JavaScript</code> · <code>C / C++</code> · <code>Java</code> · <code>Python</code>
+  <code>Solidity</code> · <code>Ethereum</code> · <code>Security</code> · <code>Audits</code>
 </p>
 
 ---
 
 <div align="center">
 
-⚔️ Breaking smart contracts before attackers do
-🧪 Turning assumptions into exploits
-🔐 Designing systems that fail safely
+🧨 breaking protocols before attackers do
+🧠 thinking in invariants, edge cases, and failure modes
+🔒 building systems that survive hostile environments
 
 </div>
 
 ---
 
-## 🧠 whoami
+## whoami
 
-Computer Science student focused on **Ethereum smart contracts and protocol security**.
-I read code like an attacker, reason like an auditor, and build systems assuming they *will* be attacked.
+Computer Science student deep into **Ethereum smart contracts and protocol security**.
+I approach code adversarially — assume compromise, model attacks, eliminate trust.
 
-* 🕵️ Smart contract audits & exploit research
-* 🧩 DeFi mechanics, invariants, edge cases
-* 🧠 Security-first engineering
+I care about:
+
+* exploit paths, not happy paths
+* invariants over features
+* security over speed
 
 ---
 
-## ⚙️ arsenal
+## toolkit
 
 ### languages
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat\&logo=solidity)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript)
-![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-007396?style=flat\&logo=java)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat\&logo=go)
+![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=flat\&logo=solidity)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat\&logo=javascript)
+![C](https://img.shields.io/badge/C-0d1117?style=flat\&logo=c)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat\&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat\&logo=java)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat\&logo=python)
+![Go](https://img.shields.io/badge/Go-0d1117?style=flat\&logo=go)
 
 ### tools
 
-![Foundry](https://img.shields.io/badge/Foundry-black?style=flat)
-![Truffle](https://img.shields.io/badge/Truffle-5C2D91?style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=flat)
-![Mocha](https://img.shields.io/badge/Mocha-8D5524?style=flat\&logo=mocha)
+![Foundry](https://img.shields.io/badge/Foundry-0d1117?style=flat)
+![Truffle](https://img.shields.io/badge/Truffle-0d1117?style=flat)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat\&logo=git)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat\&logo=node.js)
+![Mocha](https://img.shields.io/badge/Mocha-0d1117?style=flat\&logo=mocha)
 
 ---
 
-## 🔥 selected work
+## projects
 
-### ⚡ KickFund — Decentralized Crowdfunding Protocol
+### ⚡ KickFund
 
-* Ethereum smart contracts for trust-minimized funding
-* IPFS for decentralized metadata
-* Full test suite for contract behavior
+**Decentralized Crowdfunding Protocol**
 
-Solidity · Ethereum · IPFS · JavaScript
+* trust-minimized funding logic
+* IPFS-backed metadata
+* tested contract behavior, not assumptions
+
+Solidity · Ethereum · IPFS
 ⭐ ![GitHub stars](https://img.shields.io/github/stars/kamilsiu/kickfund?style=social)
 
 ---
 
-### 🧬 Complaint Management System — Automated Data Extraction
+### 🧬 Complaint Management System
 
-* Email → structured JSON pipeline
-* Reduced manual processing by ~70%
+**Automated Data Extraction Engine**
 
-Python · Automation · Data Processing
+* email → structured JSON pipeline
+* ~70% manual work eliminated
+
+Python · Automation
 ⭐ ![GitHub stars](https://img.shields.io/github/stars/kamilsiu/37codeBlooded?style=social)
 
 ---
 
 ### 🌐 Decentralized YouTube *(WIP)*
 
-* IPFS-based storage
-* Smart contract monetization logic
-* Creator-first ownership model
+* censorship-resistant storage
+* contract-driven monetization
+* creator-first ownership model
 
 Solidity · IPFS · Ethereum
 
 ---
 
-## 🎯 Current focus
+## current focus
 
-* 🛡️ Smart contract auditing & exploit development
-* 🧪 Audit contests & invariant testing
-* ⛓️ Protocol design & gas optimization
-* 🚀 Preparing for Web3 security roles
+* smart contract audits
+* exploit development & PoCs
+* invariant testing & threat modeling
+* preparing for high-signal audit contests
 
 ---
 
-## ☎️ Connect
+## contact
 
 <p align="center">
   <a href="https://github.com/kamilsiu">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/kamil-nissar-348145252/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>“Assume compromise. Design accordingly.”</b>
+  <b>“Security is not a feature. It’s a mindset.”</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kamilsiu&color=00e5ff&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=kamilsiu&color=00fff0&style=flat">
 </p>
 
----
-
-If you want it **even colder** (black-hat minimal, no emojis, no fluff), say the word and I’ll nuke it down to pure menace.
