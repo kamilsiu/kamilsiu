@@ -13,7 +13,7 @@
 ## 🧠 About Me
 
 I’m a **Computer Science student** focused on **Ethereum smart contracts and Web3 security**.  
-I enjoy breaking protocols before attackers do — writing, testing, and auditing contracts with a security-first mindset.
+I enjoy breaking protocols before attackers do writing, testing, and auditing contracts with a security-first mindset.
 
 - 🔍 Interested in **DeFi, protocol design, and attack surfaces**
 - 🛠️ Strong believer in **secure-by-design** smart contracts
