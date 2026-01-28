@@ -89,7 +89,7 @@ Solidity · IPFS · Ethereum
 
 ---
 
-## 🎯 current focus
+## 🎯 Current focus
 
 * 🛡️ Smart contract auditing & exploit development
 * 🧪 Audit contests & invariant testing
@@ -98,7 +98,7 @@ Solidity · IPFS · Ethereum
 
 ---
 
-## ☎️ connect
+## ☎️ Connect
 
 <p align="center">
   <a href="https://github.com/kamilsiu">
