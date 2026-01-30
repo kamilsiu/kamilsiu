@@ -73,7 +73,7 @@ I read code like an attacker, reason like an auditor, and build systems assuming
 
 ## 🔥 selected work
 
-### ⚡ KickFund — Decentralized Crowdfunding Protocol
+### ⚡ KickFund (Decentralized Crowdfunding Protocol)
 
 * Ethereum smart contracts for trust-minimized funding
 * IPFS for decentralized metadata
@@ -84,7 +84,7 @@ Solidity · Ethereum · IPFS · JavaScript
 
 ---
 
-### 🧬 Complaint Management System — Automated Data Extraction
+### 🧬 CivicPal (Complaint Management System)
 
 * Email → structured JSON pipeline
 * Reduced manual processing by ~70%
