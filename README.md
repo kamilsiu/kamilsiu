@@ -135,5 +135,3 @@ Solidity · IPFS · Ethereum
 </p>
 
 ---
-
-If you want it **even colder** (black-hat minimal, no emojis, no fluff), say the word and I’ll nuke it down to pure menace.
