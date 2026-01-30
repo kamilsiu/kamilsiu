@@ -37,7 +37,7 @@ designing systems that fail safely
 
 ---
 
-## 🧠 whoami
+## About me
 
 Computer Science student focused on **Ethereum smart contracts and protocol security**.
 I read code like an attacker, reason like an auditor, and build systems assuming they *will* be attacked.
