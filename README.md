@@ -47,8 +47,6 @@
 01000000               0       0000 0 0                 1000
 000101                           00000      0    0       101
 0100       0                      000 0                  000
-
-
 ```
 
 </td>
@@ -91,11 +89,6 @@ Contact
 GitHub      @kamilsiu
 Location    Bengaluru, India
 
-Status
-────────────────────────────────────
-> assume compromise
-> eliminate trust
-> verify invariants
 ```
 
 </td>
