@@ -91,6 +91,26 @@ Focus       Protocol Security
 
 ---
 
+```text
+$ whoami
+kamil
+
+$ mindset
+assume compromise
+eliminate trust
+verify invariants
+
+$ focus
+protocol security
+exploit research
+smart contract audits
+
+$ goals
+breaking smart contracts before attackers do
+turning assumptions into exploits
+designing systems that fail safely
+```
+
 ## About me
 
 Computer Science student focused on **Ethereum smart contracts and protocol security**.
