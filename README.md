@@ -83,12 +83,7 @@ Tools       Foundry · Slither
 Focus       Protocol Security
             Audit Contests
             Secure Contract Design
-
-Contact
-────────────────────────────────────
-GitHub      @kamilsiu
-Location    Bengaluru, India
-
+            Full Stack Dev
 ```
 
 </td>
