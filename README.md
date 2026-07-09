@@ -81,7 +81,6 @@ Tools       Foundry · Slither
             Hardhat · Git
 
 Focus       Protocol Security
-            Audit Contests
             Secure Contract Design
             Full Stack Dev
 ```
