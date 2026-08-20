@@ -136,7 +136,7 @@ I read code like an attacker, reason like an auditor, and build systems assuming
 
 ### tools
 
-![Foundry]
+![Foundry](https://img.shields.io/badge/Foundry-black?style=flat)
 ![Truffle](https://img.shields.io/badge/Truffle-5C2D91?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
